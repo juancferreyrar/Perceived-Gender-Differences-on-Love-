@@ -1,4 +1,4 @@
-# Perceived-Gender-Differences-on-Love-
+# Perceived Gender Differences on Love
 In psychology, exploring the concept of love presents significant challenges due to 
 numerous extraneous variables and their inherent ambiguity. Introducing gender into this 
 exploration adds further variability, making it even more complex to quantify and analyze. 
